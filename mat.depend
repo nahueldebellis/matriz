@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1530120987 source:c:\users\lab2\desktop\mat\main.cpp
+	<iostream>
+	<vector>
+
+1530252758 source:e:\mat\main.cpp
+	<iostream>
+	<vector>
+	<iomanip>
+
